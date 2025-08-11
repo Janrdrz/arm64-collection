@@ -1,6 +1,6 @@
 # ARM64 Collection
 
-Some binaries compiled specifically for AMR64 (Tested on Ubuntu 24.04.1).
+Some binaries compiled specifically for ARM64 (Tested on Ubuntu 24.04.1).
 
 | Official Repository | ARM64 Compiled | Date Compiled | Credits |
 |---------------------|:--------------:|-----------------------:|--------:|
